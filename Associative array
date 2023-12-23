@@ -1,0 +1,7 @@
+<?php
+$person = array(
+  "name" => "Rama",
+  "age" => 25,
+  "city" => "banglore"
+);
+?>
